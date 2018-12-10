@@ -7,7 +7,7 @@ Classification of fashion mnist data using convolutional neural networks.
 
 You can modify the model's hyperparameters in *setting.py*.
 
-you also to set training data and testing data path in *setting.py*.
+also to set training data and testing data path in *setting.py*.
 
 e.g.
 
